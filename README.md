@@ -3,7 +3,6 @@
 <!--
 **monjoybme/monjoybme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
 
 - :zap: I love Research, Teaching, Mathematics, Artificial intelligence, Biomedical Engineering, and books
 - 🌱 I’m addicted to learning and growing every day
